@@ -86,7 +86,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
 
 Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
-<h2 align="centre">I am always open to work!!!!</h2>
+<h2 align="center">I am always open to work!!!!</h2>
 ---
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
