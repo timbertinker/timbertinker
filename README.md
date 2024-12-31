@@ -15,28 +15,6 @@
 
 Experienced Web Developer adept in all stages of advanced web development with 8+ years experience building smart websites and 5+ years working with Blockchain technologies. Quickly learn and master new technologies and working in both team and self-directed settings. Adept at contributing to a highly collaborative work environment, finding solutions, and determining customer satisfaction. As a problem solver, I always strive to deliver good value to clients and works very well with team members.
 
-## Currently
-- 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
-  - 💼 Building user interfaces with a focus on **usability** and **performance**.
-  - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
-  - 👁️ Ensuring **cross-platform compatibility** and implementing **responsive design**.
-- 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
-  - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
-  - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
-  - DL/ML
-## On the Horizon
-- 🌱 I'm currently delving into the world of **Technical Content Writing**.
-  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
-- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
-  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
-
-## Goals
-- 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
-  - 🤝 Open to mentorship opportunities, peer programming sessions, and tech meetups.
-  - 🔄 Keen on contributing to open source projects and participating in coding challenges.
-
-Feel free to reach out if you're interested in collaborating or just want to chat about tech!
-
 ### 🛠 &nbsp;Languages and Tools :
 
 <table>
@@ -84,6 +62,29 @@ Feel free to reach out if you're interested in collaborating or just want to cha
    </tr>
   </table>
 <br />
+
+
+## Currently
+- 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
+  - 💼 Building user interfaces with a focus on **usability** and **performance**.
+  - 🛠️ Developing server-side logic that scales well and integrates seamlessly with various databases and services.
+  - 👁️ Ensuring **cross-platform compatibility** and implementing **responsive design**.
+- 🖥️ Additionally, I am deeply involved with **smart contract development**, essential for today's decentralized applications.
+  - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
+  - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
+  - DL/ML
+## On the Horizon
+- 🌱 I'm currently delving into the world of **Technical Content Writing**.
+  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
+- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
+  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
+
+## Goals
+- 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
+  - 🤝 Open to mentorship opportunities, peer programming sessions, and tech meetups.
+  - 🔄 Keen on contributing to open source projects and participating in coding challenges.
+
+Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
 I am always open to work!!!!
 ---
