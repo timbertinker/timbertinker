@@ -7,8 +7,6 @@
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
 
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" />
-
 
 
 # About Me
@@ -73,11 +71,6 @@ Experienced Web Developer adept in all stages of advanced web development with 8
   - 📜 Writing **Solidity & Rust, Move, FunC Contracts** with a strong emphasis on **security** and **gas optimization**.
   - 🔗 Integrating smart contracts into traditional applications to create hybrid systems.
   - DL/ML
-## On the Horizon
-- 🌱 I'm currently delving into the world of **Technical Content Writing**.
-  - ✍️ Sharing my knowledge and experience through blogging platforms and technical documentation.
-- 💡 Always eager to learn, I dedicate my free time to exploring the latest software technologies.
-  - 🏗️ Experimenting with new frameworks and languages to stay ahead in the fast-paced tech landscape.
 
 ## Goals
 - 🤔 I’m looking forward to connecting and exchanging ideas with other developers in the tech community.
