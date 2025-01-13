@@ -28,6 +28,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="auto"  /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="auto"  /></td>
   </tr>
+  
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="auto"  /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="55" height="auto"  /></td>
@@ -42,6 +43,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="55" height="auto" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /></td>
    </tr>
+  
    <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="auto"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="auto" /></td>
@@ -58,6 +60,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
    </tr>
   </table>
 <br />
+
 ## Currently
 - 🔭 I'm employed as a **Software Engineer** where I play a pivotal role in contributing to both the frontend and backend aspects of our web applications.
   - 💼 Building user interfaces with a focus on **usability** and **performance**.
