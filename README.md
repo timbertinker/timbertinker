@@ -56,6 +56,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></td>
    </tr>
+  
   </table>
 <br />
 ## Currently
