@@ -13,6 +13,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
 ### 🛠 &nbsp;Languages and Tools :
 
 <table>
+
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="auto" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="auto"  /></td>
@@ -27,6 +28,7 @@ Experienced Web Developer adept in all stages of advanced web development with 8
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55" height="auto"  /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55" height="auto"  /></td>
   </tr>
+  
   
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" height="auto"  /></td>
