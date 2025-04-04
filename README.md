@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> Welcome To My Profile. </h1>
 
 <p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/></p>
-<video src="https://framerusercontent.com/assets/I28P3fwC6s3Z0iTafPlH3LwRT0.mp4" width="400"</video>
+
 <p align="center">
   <a href="https://github.com/smartfox1203"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20Efficient;Senior%20Full%20Stack%20Developer;8+%2B%20years%20of%20developing%20experience;&center=true&width=800&height=60"></a>
 </p>
