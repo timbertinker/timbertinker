@@ -81,7 +81,6 @@ Experienced Web Developer adept in all stages of advanced web development with 8
 Feel free to reach out if you're interested in collaborating or just want to chat about tech!
 
 <h1 align="center">I am always open to work!!!!</h1>
-<video src="https://framerusercontent.com/assets/I28P3fwC6s3Z0iTafPlH3LwRT0.mp4" width="400"></video>
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=timbertinker&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats">
 
 <!-- BLOG-POST-LIST:START -->
